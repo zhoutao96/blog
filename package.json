@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "博客",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
